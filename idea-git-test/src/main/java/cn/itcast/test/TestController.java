@@ -14,4 +14,15 @@ public class TestController {
         System.out.println("test");
         System.out.println("test");
     }
+    public void test(){
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println("222");
+        System.out.println("222");
+
+    }
 }
