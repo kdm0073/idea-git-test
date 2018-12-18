@@ -30,4 +30,8 @@ public class TestController {
         System.out.println("aaa");
 
     }
+    public void a(){
+        System.out.println("a");
+
+    }
 }
